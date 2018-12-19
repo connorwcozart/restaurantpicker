@@ -1,0 +1,45 @@
+body {
+	background-color: #E0E7E9;
+}
+
+.NavBar {
+	background-color: #354649;
+	color: #E0E7E9;
+	align-items: center;
+	width: 100%;
+}
+
+.SiteTitle {
+	 background-color: #E0E7E9;
+}
+
+.SiteHead {
+	text-align: center;
+	font-weight: strong;
+	font-size: 30px;
+	color: #354649;
+}
+
+.NavElements {
+	float: ;
+	color: red;
+	text-align: left;
+	text-align-last: left;
+	padding-top: 1%;
+}
+
+.Element1 {
+	padding-right: 5%;
+}
+
+.Element2 {
+	padding-right: 5%;
+}
+
+.Element3 {
+	padding-right: 5%;
+}
+
+.Element4 {
+	padding-right: 5%;
+}
